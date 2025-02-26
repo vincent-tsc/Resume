@@ -11,7 +11,9 @@
 
 ## Career Summary
 
-Motivated Cloud Engineer and DevOps trainee with hands-on experience in designing secure, scalable cloud infrastructure and implementing CI/CD pipelines. Proficient in Azure, Terraform, and Linux administration, with a strong foundation in troubleshooting and problem-solving. Passionate about leveraging cloud technologies to optimize business operations.
+Motivated Cloud Engineer and DevOps trainee with hands-on experience in designing secure, scalable cloud infrastructure and implementing CI/CD pipelines.
+Proficient in Azure, Terraform, and Linux administration, with a strong foundation in troubleshooting and problem-solving.
+Passionate about leveraging cloud technologies to optimize business operations.
 
 ## Additional Skills & Certifications
 
