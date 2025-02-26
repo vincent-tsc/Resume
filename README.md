@@ -1,4 +1,4 @@
-Got it! Here's a formatted version of your resume that you can use for your GitHub README file:
+
 
 ```markdown
 # Vincent Thong Say Chung
@@ -54,4 +54,4 @@ Software Tester
 - Final Year Project: Port Terminal Lab Simulation
 ```
 
-You can copy this markdown text into your GitHub README file. Let me know if you need any further adjustments!
+
