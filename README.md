@@ -6,8 +6,8 @@
 **Contact Information:**
 - Phone: 87489367
 - Email: vincent.thongsc@gmail.com
-- LinkedIn
-- Portfolio
+- LinkedIn : https://www.linkedin.com/in/vincentthongsc/ 
+- Portfolio : https://vincent-tsc.github.io/portfolio/ 
 
 ## Career Summary
 
